@@ -55,3 +55,5 @@ If you want to keep an eye on CatBlock or even know more about it, check out our
 [![Slack](http://catblock-slackin.herokuapp.com/badge.svg)](http://catblock-slackin.herokuapp.com)
 
 We use Slack a lot - make an account at <http://catblock-slackin.herokuapp.com> and log in at <https://catblock.slack.com>. You can ask questions there (the main contributors are all in Europe, so anyone in Australia should expect a bit of a wait).
+
+Innovify Forked Copy
